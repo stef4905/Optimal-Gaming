@@ -1,0 +1,12 @@
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\bin\Debug\Optimal Gaming Console App.exe.config
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\bin\Debug\Optimal Gaming Console App.exe
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\bin\Debug\Optimal Gaming Console App.pdb
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\bin\Debug\DnsClient.dll
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\bin\Debug\MongoDB.Bson.dll
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\bin\Debug\MongoDB.Driver.dll
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\bin\Debug\System.Buffers.dll
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\obj\Debug\Optimal Gaming Console App.csprojResolveAssemblyReference.cache
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\obj\Debug\Optimal Gaming Console App.exe
+c:\users\wow99\onedrive\dokumenter\visual studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming Console App\obj\Debug\Optimal Gaming Console App.pdb

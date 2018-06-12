@@ -1,0 +1,6 @@
+C:\Users\wow99\OneDrive\Dokumenter\Visual Studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming WCF\bin\Debug\Optimal Gaming WCF.dll.config
+C:\Users\wow99\OneDrive\Dokumenter\Visual Studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming WCF\bin\Debug\Optimal Gaming WCF.dll
+C:\Users\wow99\OneDrive\Dokumenter\Visual Studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming WCF\bin\Debug\Optimal Gaming WCF.pdb
+C:\Users\wow99\OneDrive\Dokumenter\Visual Studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming WCF\obj\Debug\Optimal Gaming WCF.csprojResolveAssemblyReference.cache
+C:\Users\wow99\OneDrive\Dokumenter\Visual Studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming WCF\obj\Debug\Optimal Gaming WCF.dll
+C:\Users\wow99\OneDrive\Dokumenter\Visual Studio 2017\Projects\Optimal Gaming WCF\Optimal Gaming WCF\obj\Debug\Optimal Gaming WCF.pdb
